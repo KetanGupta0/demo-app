@@ -100,7 +100,7 @@ ul {
 
       <div class="mt-4">
         <a href="#projects" class="btn btn-warning btn-lg me-2">View Projects</a>
-        <a href="https://jmccomputers.site" target="_blank" class="btn btn-outline-light btn-lg">
+        <a href="https://jmccomputers.site" class="btn btn-outline-light btn-lg">
           Live DevOps Project
         </a>
       </div>
@@ -140,7 +140,7 @@ ul {
             <p class="text-muted mb-1">Backend Systems Engineer</p>
             <p class="text-muted">Laravel + DevOps</p>
 
-            <a href="https://jmccomputers.site" target="_blank" class="btn btn-dark w-100 mt-2">
+            <a href="https://jmccomputers.site" class="btn btn-dark w-100 mt-2">
               <i class="bi bi-globe"></i> Live Project
             </a>
           </div>
